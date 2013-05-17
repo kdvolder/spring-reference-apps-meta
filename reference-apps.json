@@ -1,0 +1,23 @@
+[
+	{
+		"type" : "github",
+		"owner": "SpringSource", 
+		"repo" : "spring-mvc-showcase"
+	},
+	{
+		"type" : "github",
+		"owner": "SpringSource", 
+		"repo" : "spring-petclinic"
+	},
+	{
+		"type" : "github",
+		"owner": "SpringSource", 
+		"repo" : "greenhouse"
+	},
+	{
+		"type" : "github",
+		"owner": "cloudfoundry-samples", 
+		"repo" : "springmvc-hibernate-template",
+		"name" : "spring-hibernate-cf"
+	}
+]
