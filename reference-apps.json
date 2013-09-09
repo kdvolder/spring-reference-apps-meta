@@ -1,17 +1,17 @@
 [
 	{
 		"type" : "github",
-		"owner": "SpringSource", 
+		"owner": "spring-projects", 
 		"repo" : "spring-mvc-showcase"
 	},
 	{
 		"type" : "github",
-		"owner": "SpringSource", 
+		"owner": "spring-projects", 
 		"repo" : "spring-petclinic"
 	},
 	{
 		"type" : "github",
-		"owner": "SpringSource", 
+		"owner": "spring-projects", 
 		"repo" : "greenhouse"
 	},
 	{
