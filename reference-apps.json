@@ -7,8 +7,7 @@
 	{
 		"type" : "github",
 		"owner": "spring-projects", 
-		"repo" : "spring-petclinic",
-		"branch": "main"
+		"repo" : "spring-petclinic"
 	},
 	{
 		"type" : "github",
